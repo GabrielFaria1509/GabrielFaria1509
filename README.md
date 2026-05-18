@@ -22,8 +22,8 @@ Sou estudante de Engenharia de Software no **Inatel** (5º período) com sólida
 * **Tecnologias & Ferramentas:** Git, GitHub, Linux, HTML, CSS e LaTeX.
 
 ### 🎸 Fora do Código (Interesses)
-* **Rock:** Riffs acelerados e ritmos estruturados são a trilha sonora perfeita para manter o foco e debugar códigos complexos.
-* **Cultura Geek & Tecnologia:** Uma boa animação é meu hobby para distrair a mente após dias cansativos,sempre interessado em descobrir novas tecnlogias e como elas podem nos ajudar no dia a dia
+* **Rock & Heavy Metal:** Riffs acelerados e ritmos estruturados são a trilha sonora perfeita para manter o foco e debugar códigos complexos.
+* **Cultura Geek & Tecnologia:** Uma boa animação é meu hobby para distrair a mente após dias cansativos,sempre interessado em descobrir novas tecnlogias e como elas podem nos ajudar no dia a dia.
 
 ---
 
@@ -33,7 +33,7 @@ I am a Software Engineering student at **Inatel** (5th period) with a solid back
 
 ### 💼 Experience & Activities
 * **Scientific Initiation (Inatel - xGMobile):** Research assistant focused on 5G/6G networks. Working on MATLAB simulations for performance analysis, implementation/optimization of LDPC algorithms, and technical documentation in LaTeX.
-* **Competitive Programming (CodeTroopers):** Active team member since 2025, focused on solving complex problems on platforms like Beecrowd and Codeforces, with an emphasis on algorithms, dynamic programming, and bit manipulation.
+* **Competitive Programming (CodeTroopers):** Active team member since 2025, focused on solving complex problems on platforms like Beecrowd and Codeforces, with an emphasis on algorithms, programming programming, and bit manipulation.
 * **Academic Tutor (Inatel):** Mathematics, Calculus, and Physics tutor, helping students consolidate theoretical fundamentals and logical reasoning.
 
 ### 🛠️ Technical Skills
@@ -42,7 +42,7 @@ I am a Software Engineering student at **Inatel** (5th period) with a solid back
 
 ### 🎸 Behind the Code (Interests)
 * **Rock & Heavy Metal:** Fast-paced riffs and structured rhythms are the perfect background track for maintaining focus and debugging complex code.
-* **Geek Culture & Tech:** Fascinated by high-performance hardware architecture and deep, well-built narrative universes (anime and sci-fi).
+* **Geek Culture & Tech:** A good animation is my hobby to unwind after exhausting days. Beyond that, I am driven by good music (Rock) and by always discovering new technologies and how they can help us in our daily lives..
 
 ---
 
@@ -51,6 +51,6 @@ I am a Software Engineering student at **Inatel** (5th period) with a solid back
 * **Email:** [gabriel.faria@ges.inatel.br](mailto:gabriel.faria@ges.inatel.br) | [fariagabriel1509@gmail.com](mailto:fariagabriel1509@gmail.com)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Faria1509&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Gabriel's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Faria1509&layout=compact&theme=dark" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel%20Faria1509&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Gabriel's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel%20Faria1509&layout=compact&theme=dark" alt="Top Languages" height="150" />
 </p>
