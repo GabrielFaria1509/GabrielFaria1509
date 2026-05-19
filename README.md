@@ -19,7 +19,7 @@ Sou estudante de Engenharia de Software no **Inatel** (5º período) com sólida
 
 ### 🛠️ Competências Técnicas
 * **Linguagens:** C++, Python, JavaScript, Java e MATLAB.
-* **Tecnologias & Ferramentas:** Git, GitHub, Linux, HTML, CSS e LaTeX.
+* **Tecnologias & Ferramentas:** Git, GitHub,HTML, CSS e LaTeX.
 
 ### 🎸 Fora do Código (Interesses)
 * **Rock & Heavy Metal:** Riffs acelerados e ritmos estruturados são a trilha sonora perfeita para manter o foco e debugar códigos complexos.
@@ -38,7 +38,7 @@ I am a Software Engineering student at **Inatel** (5th period) with a solid back
 
 ### 🛠️ Technical Skills
 * **Languages:** C++, Python, JavaScript, Java, and MATLAB.
-* **Technologies & Tools:** Git, GitHub, Linux, HTML, CSS, and LaTeX.
+* **Technologies & Tools:** Git, GitHub,HTML, CSS, and LaTeX.
 
 ### 🎸 Behind the Code (Interests)
 * **Rock & Heavy Metal:** Fast-paced riffs and structured rhythms are the perfect background track for maintaining focus and debugging complex code.
