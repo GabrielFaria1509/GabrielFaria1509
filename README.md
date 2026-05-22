@@ -1,3 +1,4 @@
+<img width="540" height="304" alt="gif_chainsaw" src="https://github.com/user-attachments/assets/663148c0-0624-4110-970d-a237ef777b07" />
 # Hey, I'm Gabriel Faria! 👋
 ### Software Engineering Student | Developer & Researcher
 
