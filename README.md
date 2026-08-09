@@ -14,7 +14,7 @@
 
 ## 🇧🇷 Sobre Mim (PT-BR)
 
-Sou estudante de Engenharia de Software no **Inatel** (5º período) com sólida base em algoritmos, estruturas de dados e resolução de problemas complexos. Tenho forte interesse em desenvolvimento de software, inteligência artificial e análise de dados, combinando pesquisa acadêmica de ponta e programação competitiva no meu dia a dia.
+Sou estudante de Engenharia de Software no **Inatel** (6º período) com sólida base em algoritmos, estruturas de dados e resolução de problemas complexos. Tenho forte interesse em desenvolvimento de software, inteligência artificial e análise de dados, combinando pesquisa acadêmica de ponta e programação competitiva no meu dia a dia.
 
 ### 💼 Experiência e Atividades
 * **Iniciação Científica (Inatel - xGMobile):** Pesquisador focado em redes 5G/6G. Atuo no desenvolvimento de simulações em MATLAB para análise de desempenho, implementação/otimização de algoritmos LDPC e documentação técnica em LaTeX.
