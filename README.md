@@ -30,11 +30,11 @@ Sou estudante de Engenharia de Software no **Inatel** (6º período), com sólid
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,matlab,html,css,git,github,latex&theme=dark" alt="Tecnologias e ferramentas" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,matlab,html,css,git,github,latex&theme=dark" alt="Tecnologias e ferramentas" />
 
 </div>
 
-- **Linguagens:** C++, Python, JavaScript, Java e MATLAB.
+- **Linguagens:** C++,C, Python, JavaScript, Java e MATLAB.
 - **Tecnologias e ferramentas:** Git, GitHub, HTML, CSS e LaTeX.
 - **Áreas de interesse:** Algoritmos, inteligência artificial, análise de dados e telecomunicações 5G/6G.
 
@@ -59,11 +59,10 @@ I am a Software Engineering student at **Inatel** (6th semester), with a solid b
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,matlab,html,css,git,github,latex&theme=dark" alt="Technologies and tools" />
-
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,matlab,html,css,git,github,latex&theme=dark" alt="Tecnologias e ferramentas" />
 </div>
 
-- **Languages:** C++, Python, JavaScript, Java, and MATLAB.
+- **Languages:** C++, C, Python, JavaScript, Java, and MATLAB.
 - **Technologies & Tools:** Git, GitHub, HTML, CSS, and LaTeX.
 - **Areas of Interest:** Algorithms, artificial intelligence, data analysis, and 5G/6G telecommunications.
 
