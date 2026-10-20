@@ -1,10 +1,6 @@
- <!-- README.md -->
-
-<img width="540" height="304" alt="gif_chainsaw" src="https://github.com/user-attachments/assets/663148c0-0624-4110-970d-a237ef777b07" />
+# 👾 Gabriel Faria
 
 <div align="center">
-
-# 👾 Gabriel Faria
 
 ### `SOFTWARE ENGINEERING STUDENT` · `DEVELOPER` · `RESEARCHER`
 
@@ -112,7 +108,12 @@ I am a Software Engineering student at **Inatel** (6th semester), with a solid b
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:302B63,100:8A2BE2&height=100&section=footer" width="100%" alt="Neon futuristic footer" />
 
+<br/>
+
+<img width="540" height="304" alt="gif_chainsaw" src="https://github.com/user-attachments/assets/663148c0-0624-4110-970d-a237ef777b07" />
+
+<br/>
+
 <sub>⚡ Building, researching, and learning — one commit at a time.</sub>
 
 </div>
-
