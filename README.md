@@ -78,9 +78,9 @@ I am a Software Engineering student at **Inatel** (6th semester), with a solid b
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma.vercel.app/api?username=GabrielFaria1509&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2&text_color=C9D1D9&ring_color=00F7FF" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GabrielFaria1509&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2&text_color=C9D1D9&ring_color=00F7FF" alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=GabrielFaria1509&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" alt="Most used programming languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFaria1509&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" alt="Most used programming languages" />
 
 <br/>
 
