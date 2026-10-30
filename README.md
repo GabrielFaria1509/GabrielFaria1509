@@ -34,7 +34,7 @@ Sou estudante de Engenharia de Software no **Inatel** (6º período), com sólid
 
 </div>
 
-- **Linguagens:** C++,C, Python, JavaScript, Java e MATLAB.
+- **Linguagens:** C, C++, Python, JavaScript, Java e MATLAB.
 - **Tecnologias e ferramentas:** Git, GitHub, HTML, CSS e LaTeX.
 - **Áreas de interesse:** Algoritmos, inteligência artificial, análise de dados e telecomunicações 5G/6G.
 
@@ -59,10 +59,11 @@ I am a Software Engineering student at **Inatel** (6th semester), with a solid b
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,matlab,html,css,git,github,latex&theme=dark" alt="Tecnologias e ferramentas" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,matlab,html,css,git,github,latex&theme=dark" alt="Technologies and tools" />
+
 </div>
 
-- **Languages:** C++, C, Python, JavaScript, Java, and MATLAB.
+- **Languages:** C, C++, Python, JavaScript, Java, and MATLAB.
 - **Technologies & Tools:** Git, GitHub, HTML, CSS, and LaTeX.
 - **Areas of Interest:** Algorithms, artificial intelligence, data analysis, and 5G/6G telecommunications.
 
@@ -77,9 +78,9 @@ I am a Software Engineering student at **Inatel** (6th semester), with a solid b
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GabrielFaria1509&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2&text_color=C9D1D9&ring_color=00F7FF&include_all_commits=true" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats-sigma.vercel.app/api?username=GabrielFaria1509&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2&text_color=C9D1D9&ring_color=00F7FF" alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFaria1509&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" alt="Most used programming languages" />
+<img height="165" src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=GabrielFaria1509&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" alt="Most used programming languages" />
 
 <br/>
 
